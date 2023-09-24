@@ -25,16 +25,16 @@ public class CalculoPesado : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        /*if(jobsOn)
+        if(jobsOn)
         {
             Calculospesados();
         }
         else
         {
             HardTask();
-        }*/
-        Calculospesados();
-        HardTask();
+        }
+        //Calculospesados();
+        //HardTask();
 
     }
 
